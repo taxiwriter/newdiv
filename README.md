@@ -12,5 +12,6 @@ date: 2019-04-12
 
 It want to use this respository to test div sets:
 1. **article, header, footer, etc..** testen
+2. the github page is [here](https://taxiwriter.github.io/newdiv/)
 
 let's go back to [home](#readme-von-taxiwritergithubio)
